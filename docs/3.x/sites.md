@@ -30,7 +30,9 @@ Craft creates the first Site Group for you – named after the default site – 
 
 Similar to Field Groups, Site Groups are for organization only.
 
-You can access the current site's group information using:
+### Site
+
+You can access the current site's information using:
 
 ```twig
 Site ID:            {{ currentSite.id }}
